@@ -1,0 +1,1 @@
+Para enviar minhas modificações locais eu tenho q usar o comando git push origin mastar
